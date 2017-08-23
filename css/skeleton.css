@@ -26,8 +26,19 @@
 */
 
 
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+img{
+  background: url(arrow.png) no-repeat;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    border-radius: 100%;
+}
+
 .container {
   position: relative;
   width: 100%;
@@ -125,7 +136,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: 'Titillium Web', sans-serif;
-  color: #222; 
+  color: #222;
   background-color: #9fa9a1;}
 
 
