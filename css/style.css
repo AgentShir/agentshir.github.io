@@ -126,7 +126,7 @@ a.link.animated {
 }
 
 a.link.animated:after {
-    color: #00ACC1;
+    color: #000000;
     content: "\f3d4";
     font-family: "Ionicons";
     position: absolute;
@@ -476,8 +476,8 @@ p {
 }
 
 .section-padding {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 .border {
@@ -802,6 +802,36 @@ header .navbar .navbar-header {
 	float: left;
     font-size: 25px;
     line-height: 27px;
+    padding-right: 8px;
+}
+
+.skill-mysql {
+  width: 53px;
+  height: 50px;
+}
+.skill-react {
+  width: 51px;
+  height: 48px;
+}
+
+.skill-js {
+  width: 50px;
+  height: 50px;
+}
+
+.skill-redux {
+  width: 42px;
+  height: 45px;
+}
+
+.skill-lightroom {
+  width: 54px;
+  height: 50px;
+}
+
+.skill-node {
+  width: 42px;
+  height: 52px;
 }
 
 .skill-title {
