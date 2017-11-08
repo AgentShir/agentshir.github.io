@@ -806,7 +806,7 @@ header .navbar .navbar-header {
 }
 
 .skill-mysql {
-  width: 53px;
+  width: 65px;
   height: 50px;
 }
 .skill-react {
@@ -815,13 +815,23 @@ header .navbar .navbar-header {
 }
 
 .skill-js {
-  width: 50px;
-  height: 50px;
+  width: 42px;
+  height: 52px;
 }
 
 .skill-redux {
   width: 42px;
   height: 45px;
+}
+
+.skill-mui {
+  width: 46px;
+  height: 52px;
+}
+
+.skill-bootstrap {
+  width: 46px;
+  height: 52px;
 }
 
 .skill-lightroom {
@@ -830,6 +840,16 @@ header .navbar .navbar-header {
 }
 
 .skill-node {
+  width: 42px;
+  height: 52px;
+}
+
+.skill-html {
+  width: 42px;
+  height: 52px;
+}
+
+.skill-css {
   width: 42px;
   height: 52px;
 }
