@@ -629,7 +629,7 @@ header .navbar .navbar-header {
 .intro {
 	height: 85vh;
 	background-image: url(../img/portfolio.jpg);
-	background-size: cover;
+	background-size: 100%;
 	background-repeat: no-repeat;
 }
 
