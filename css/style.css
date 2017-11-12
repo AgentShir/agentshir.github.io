@@ -627,9 +627,9 @@ header .navbar .navbar-header {
 /* ==================== Intro ==================== */
 
 .intro {
-	height: 85vh;
+	height: 95vh;
 	background-image: url(../img/portfolio.jpg);
-	background-size: 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -1727,7 +1727,7 @@ label#email-error:before {
     }
 
     .intro {
-        height: 65vh;
+        height: 85vh;
     }
 
     .about-list {
@@ -1752,6 +1752,10 @@ label#email-error:before {
 /* ==================== 678px ==================== */
 
 @media (max-width: 678px) {
+
+  .intro {
+      height: 85vh;
+  }
 
 	.portfolio-filter li {
 		padding: 0;
