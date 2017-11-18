@@ -796,6 +796,7 @@ header .navbar .navbar-header {
 	width: 100%;
     margin-bottom: 12px;
 	overflow: hidden;
+  text-align: center;
 }
 
 .skill-icon {
@@ -858,6 +859,7 @@ header .navbar .navbar-header {
 	margin-left: 33px;
     margin-top: 4px;
     margin-bottom: 4px;
+    text-align: center;
 }
 
 .skillbar {
@@ -893,6 +895,11 @@ header .navbar .navbar-header {
 }
 
 /* ==================== Portfolio ==================== */
+
+.portfolio-wrapper {
+  display: flex;
+  align-content: center;
+}
 
 .portfolio-filter {
 	text-align: center;
