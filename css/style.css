@@ -628,7 +628,7 @@ header .navbar .navbar-header {
 
 .intro {
 	height: 95vh;
-	background-image: url(../img/portfolio.jpg);
+	background-image: url(../img/portfolio/portfolio.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
